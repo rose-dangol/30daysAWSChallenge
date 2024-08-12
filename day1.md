@@ -1,4 +1,4 @@
-### Introduction to AWS Cloud Computing
+## Introduction to AWS Cloud Computing
 
 #### Key AWS Services
 
